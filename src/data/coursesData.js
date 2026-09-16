@@ -1,7 +1,7 @@
 export const coursesData = [
   {
     id: "java-fullstack",
-    title: "Java Full Stack",
+    title: "Agentic AI with Java Full Stack",
     tagline: "Enterprise-grade software development with Agentic AI integration",
     duration: "5 Months",
     hours: "500+ Hours",
@@ -49,14 +49,14 @@ export const coursesData = [
   },
   {
     id: "python-fullstack",
-    title: "Python Full Stack",
+    title: "Agentic AI with Python Full Stack",
     tagline: "Modern web architecture coupled with Python AI capabilities",
     duration: "5 Months",
     hours: "500+ Hours",
     projectsCount: "3 Real-Time Projects",
     feeNow: "₹5,000",
     feeLater: "₹20,000",
-    popular: false,
+    popular: true,
     techStack: [
       "Python",
       "Django",
@@ -97,7 +97,7 @@ export const coursesData = [
   },
   {
     id: "mern-mean",
-    title: "MERN / MEAN Stack",
+    title: "Agentic AI with MERN / MEAN Full Stack",
     tagline: "Full JavaScript ecosystem for dynamic, high-scale web platforms",
     duration: "5 Months",
     hours: "500+ Hours",
@@ -145,7 +145,7 @@ export const coursesData = [
   },
   {
     id: "software-testing",
-    title: "Software Testing & QA",
+    title: "Agentic AI with Software Testing & QA",
     tagline: "End-to-end quality engineering with automated testing & CI/CD",
     duration: "4.5 Months",
     hours: "500+ Hours",
@@ -194,14 +194,14 @@ export const coursesData = [
   },
   {
     id: "data-analytics",
-    title: "Data Analytics",
+    title: "Agentic AI with Data Analytics",
     tagline: "Transform enterprise raw data into strategic business intelligence",
     duration: "5 Months",
     hours: "500+ Hours",
     projectsCount: "4 Real-Time Projects",
     feeNow: "₹5,000",
     feeLater: "₹35,000",
-    popular: false,
+    popular: true,
     techStack: [
       "SQL",
       "Power BI",
@@ -242,7 +242,7 @@ export const coursesData = [
   },
   {
     id: "data-science",
-    title: "Data Science & AI",
+    title: "Agentic AI with Data Science & AI",
     tagline: "Master machine learning algorithms, deep learning and predictive models",
     duration: "5 Months",
     hours: "500+ Hours",
@@ -355,54 +355,117 @@ export const projectsData = [
 
 export const faqData = [
   {
-    question: "Which courses are offered under the Career Launch Programme?",
-    answer: "GQT offers 6 specialized, industry-mapped tracks: Java Full Stack, Python Full Stack, MERN / MEAN Stack, Software Testing & QA, Data Analytics, and Data Science & AI. Each course includes 500+ hours of practical training, real-time projects, and placement preparation."
+    question: "What courses are available under the GQT Career Launch Programme?",
+    answer: "GQT Career Launch offers six industry-focused Agentic AI programmes designed to prepare students for today's IT job market.\n\n• Agentic AI with Java Full Stack – Become a Java Developer, Backend Developer, or Full Stack Developer.\n\n• Agentic AI with Python Full Stack – Become a Python Developer, AI Full Stack Developer, or Django Developer.\n\n• Agentic AI with MERN / MEAN Full Stack – Become a React Developer, Node.js Developer, or Full Stack JavaScript Developer.\n\n• Agentic AI with Software Testing Full Stack – Become a QA Engineer, Automation Tester, or Software Test Engineer.\n\n• Agentic AI with Data Analytics – Become a Data Analyst, Business Intelligence Analyst, or Power BI Developer.\n\n• Agentic AI with Data Science – Become a Data Scientist, Machine Learning Engineer, or AI Engineer.\n\nEvery course includes Agentic AI concepts, hands-on projects, interview preparation, and placement assistance."
   },
+
   {
-    question: "How does the ₹5,000 Career Launch Payment Model work?",
-    answer: "Instead of demanding the full fee upfront, eligible students can confirm their admission and begin 500+ hours of intensive training with just ₹5,000. You learn first, build portfolio projects, and prepare for interviews. The remaining fee (e.g., ₹20,000 for Full Stack or Testing) is only payable after you secure your placement as outlined in the student agreement."
+    question: "Which course is the right choice for me?",
+    answer: "Choose a course based on your career interest and future goals.\n\n• Enterprise Web Applications using Java → Agentic AI with Java Full Stack.\n\n• Python Development and AI Applications → Agentic AI with Python Full Stack.\n\n• React, Node.js, MongoDB, and Angular Development → Agentic AI with MERN / MEAN Full Stack.\n\n• QA and Automation Testing Career → Agentic AI with Software Testing Full Stack.\n\n• SQL, Power BI, Dashboards, and Business Analytics → Agentic AI with Data Analytics.\n\n• Artificial Intelligence, Machine Learning, and Predictive Analytics → Agentic AI with Data Science.\n\nOur GQT mentors help every student choose the most suitable course during the admission and counselling process."
   },
+
   {
-    question: "Do I need prior coding experience to join?",
-    answer: "No prior coding background is mandatory. Every track starts from foundational programming concepts and logical thinking before progressing into enterprise frameworks, databases, and Agentic AI tools. Our mentors provide step-by-step guidance."
+    question: "Do I need coding knowledge before joining the programme?",
+    answer: "No. The GQT Career Launch Programme is designed for both beginners and students with prior coding experience.\n\nWho can join?\n\n• Final-Year Students\n• Fresh Graduates\n• Non-IT Students\n• Commerce, Science, Arts, and Management Students (eligible courses)\n• Career Switchers\n\nThe training starts from programming fundamentals, logical thinking, and basic coding concepts before progressing to advanced full stack development, Agentic AI tools, databases, projects, and interview preparation."
   },
+
   {
     question: "What will I learn during the 500+ hours of training?",
-    answer: "You will cover programming fundamentals, frontend & backend architecture, database design, REST APIs, Agentic AI developer workflows, real-time live projects, and full placement preparation including mock interviews, aptitude, and resume optimization."
+    answer: "The programme includes 500+ hours of intensive technical and career-focused training.\n\nTechnical Skills:\n• Programming Fundamentals\n• Frontend Development\n• Backend Development\n• Databases (MySQL, MongoDB, SQL)\n• REST APIs & Web Services\n• Git & GitHub\n• Agentic AI Tools & Prompt Engineering\n• Cloud Basics\n\nPractical Learning:\n• Daily Coding Practice\n• Weekly Assignments\n• Mini Projects\n• Major Real-Time Projects\n• Capstone Industry Project\n\nCareer Skills:\n• Resume Building\n• LinkedIn Profile Optimization\n• Aptitude Training\n• Communication Skills\n• Technical & HR Interview Preparation\n\nStudents graduate with strong technical knowledge and a portfolio of real-world projects."
   },
+
   {
-    question: "What real-time projects and certificates are included?",
-    answer: "You will build 3 to 4 production-grade capstone projects (such as Food Delivery Apps, Hospital Management, AI Resume Analyzers, and Power BI Dashboards). Upon completion, you receive four recognized credentials: Course Completion Certificate, Project Completion Certificate, Internship Certificate, and Programme Excellence Certificate."
+    question: "Will I work on real-time projects and receive certificates?",
+    answer: "Yes. Every student works on industry-oriented projects throughout the programme.\n\nProjects Included:\n• 4–6 Mini Projects\n• 2 Major Projects\n• 1 Capstone Industry Project\n• Team-Based Real-World Projects\n• GitHub Portfolio Projects\n\nCertificates Awarded:\n• Course Completion Certificate\n• Internship Certificate (Eligible Students)\n• Project Completion Certificate\n• Programme Completion Certificate (where applicable)\n\nThese projects and certificates help strengthen your resume and professional portfolio."
   },
+
   {
-    question: "Is the training conducted online or offline?",
-    answer: "The GQT Career Launch Programme emphasizes immersive, instructor-led offline classroom training with dedicated lab hours and one-on-one mentor support. Hybrid online live interaction is also supported for remote sessions where required."
+    question: "Is the programme available online and offline? What is the course duration?",
+    answer: "Yes. The GQT Career Launch Programme is available in both Online and Offline modes.\n\nOnline Training Includes:\n• Live Instructor-Led Classes\n• Interactive Coding Sessions\n• Doubt Solving\n• Assignments\n\nOffline Training Includes:\n• Classroom Training\n• Hands-On Lab Practice\n• One-to-One Mentor Support\n\nCourse Duration:\n• Agentic AI with Java Full Stack – 5 to 6 Months\n• Agentic AI with Python Full Stack – 5 to 6 Months\n• Agentic AI with MERN / MEAN Full Stack – 5 to 6 Months\n• Agentic AI with Software Testing Full Stack – 5 to 6 Months\n• Agentic AI with Data Analytics – 6 Months\n• Agentic AI with Data Science – 6 Months\n\nBoth Online and Offline students receive the same curriculum, projects, certifications, and placement assistance."
   },
+
   {
-    question: "How does GQT provide placement assistance?",
-    answer: "GQT has an active network of corporate hiring partners. We support you with ATS resume preparation, LinkedIn profile optimization, aptitude assessments, weekly technical mock interviews, HR interview simulations, and direct interview opportunities until you land an offer."
+    question: "Does GQT provide placement assistance?",
+    answer: "Yes. GQT provides comprehensive placement assistance throughout your career launch journey.\n\nPlacement Assistance Includes:\n• ATS-Friendly Resume Building\n• LinkedIn Profile Optimization\n• Aptitude Training\n• Technical Interview Preparation\n• HR Interview Preparation\n• Mock Interviews\n• Communication & Soft Skills Training\n• Placement Drives with Hiring Partners\n• Career Mentoring & Guidance\n\nOur team supports students until they receive interview opportunities through our placement assistance programme."
   },
+
   {
-    question: "Does GQT guarantee a job?",
-    answer: "GQT provides complete, rigorous placement assistance and interview opportunities with top tech companies. Final hiring selections are made by partner companies based on performance during evaluations, interviews, and assessments."
+    question: "How does the ₹5,000 Career Launch payment model work?",
+    answer: "The Career Launch Programme allows eligible students to begin training with an initial admission confirmation fee of ₹5,000.\n\nPayment Process:\n1. Complete Admission and Selection Process.\n2. Pay ₹5,000 to Confirm Your Seat.\n3. Attend 500+ Hours of Training.\n4. Participate in Placement Preparation and Placement Drives.\n5. Pay the Remaining Course Fee After Placement.\n\nRemaining Fee After Placement:\n• Java / Python / MERN / Software Testing Full Stack – ₹20,000\n• Data Analytics – ₹35,000\n• Data Science – ₹45,000\n\nThe payment structure is explained clearly during admission and is governed by the student agreement."
   },
+
   {
-    question: "Who is eligible for the ₹5,000 Career Launch model?",
-    answer: "Recent graduates (BE, B.Tech, BCA, MCA, B.Sc, M.Sc, etc.) as well as final-year college students committed to completing 500+ hours of training and attending placement drives are eligible. Our academic counsellors evaluate your profile and confirm admission."
+    question: "Who is eligible for the Career Launch Programme?",
+    answer: "The programme is designed for students and graduates who are preparing for IT careers.\n\nEligible Students:\n• Final-Year Students\n• Fresh Graduates\n• Diploma Holders\n• B.E / B.Tech\n• BCA / MCA\n• B.Sc / M.Sc\n• BBA / MBA\n• Students Participating through the GQT CSR Drive\n\nAdmission is subject to successful completion of the screening and selection process."
   },
+
   {
-    question: "What is the complete admission process?",
-    answer: "1) Register your details online or at our centre. 2) Attend a quick counselling & career assessment. 3) Select your track (Java, Python, MERN, Testing, Analytics, or Data Science). 4) Pay ₹5,000 to confirm your seat. 5) Start your 500-hour training journey immediately."
+    question: "What is the admission and selection process?",
+    answer: "The admission process is simple and structured.\n\nAdmission Steps:\n1. Register through GQT or your College CSR Drive.\n2. Attend an Aptitude Assessment.\n3. Complete a Basic Technical Screening.\n4. Attend an HR Interview.\n5. Receive Selection Confirmation.\n6. Pay ₹5,000 and Begin Your Training.\n\nAfter enrollment, students receive onboarding details, mentor information, batch schedules, and learning resources."
   },
+
   {
-    question: "What career support continues after the training completes?",
-    answer: "Placement support does not end when syllabus ends. We continue providing placement notifications, resume refreshes, mentor guidance, salary negotiation coaching, and interview scheduling until you successfully transition into your IT career."
+    question: "What interview preparation and career support will I receive?",
+    answer: "GQT provides complete interview preparation and career development support.\n\nCareer Support Includes:\n• Resume Creation & Review\n• LinkedIn Profile Setup & Optimization\n• Aptitude Practice Sessions\n• Coding Assessments\n• Technical Mock Interviews\n• HR Mock Interviews\n• Group Discussion Practice\n• Communication & Confidence Building Sessions\n• Salary Negotiation & Career Guidance\n\nThis preparation helps students become interview-ready before placement drives begin."
   },
+
   {
-    question: "How do I secure my seat right now?",
-    answer: "You can click on 'Apply for Career Launch' or use the secure Razorpay payment button on this page to pay the ₹5,000 admission confirmation fee. Our admissions team will instantly contact you with your batch schedule, orientation link, and learning resources."
+    question: "What happens after I complete the training programme?",
+    answer: "Your placement support continues even after the training programme is completed.\n\nAfter Training, GQT Continues Supporting Students Through:\n• Placement Notifications\n• Company Interview Calls\n• Placement Drives\n• Resume Updates & Improvements\n• Career Mentoring\n• Mock Interviews Before Company Interviews\n• Continuous Guidance Throughout the Placement Assistance Cycle\n\nThe goal is to help students successfully transition into their IT careers through ongoing placement assistance and mentorship."
   }
 ];
+
+
+// export const faqData = [
+//   {
+//     question: "What courses are available under the GQT Career Launch Programme?",
+//     answer: ""
+//   },
+//   {
+//     question: "How does the ₹5,000 Career Launch Payment Model work?",
+//     answer: "Instead of demanding the full fee upfront, eligible students can confirm their admission and begin 500+ hours of intensive training with just ₹5,000. You learn first, build portfolio projects, and prepare for interviews. The remaining fee (e.g., ₹20,000 for Full Stack or Testing) is only payable after you secure your placement as outlined in the student agreement."
+//   },
+//   {
+//     question: "Do I need prior coding experience to join?",
+//     answer: "No prior coding background is mandatory. Every track starts from foundational programming concepts and logical thinking before progressing into enterprise frameworks, databases, and Agentic AI tools. Our mentors provide step-by-step guidance."
+//   },
+//   {
+//     question: "What will I learn during the 500+ hours of training?",
+//     answer: "You will cover programming fundamentals, frontend & backend architecture, database design, REST APIs, Agentic AI developer workflows, real-time live projects, and full placement preparation including mock interviews, aptitude, and resume optimization."
+//   },
+//   {
+//     question: "What real-time projects and certificates are included?",
+//     answer: "You will build 3 to 4 production-grade capstone projects (such as Food Delivery Apps, Hospital Management, AI Resume Analyzers, and Power BI Dashboards). Upon completion, you receive four recognized credentials: Course Completion Certificate, Project Completion Certificate, Internship Certificate, and Programme Excellence Certificate."
+//   },
+//   {
+//     question: "Is the training conducted online or offline?",
+//     answer: "The GQT Career Launch Programme emphasizes immersive, instructor-led offline classroom training with dedicated lab hours and one-on-one mentor support. Hybrid online live interaction is also supported for remote sessions where required."
+//   },
+//   {
+//     question: "How does GQT provide placement assistance?",
+//     answer: "GQT has an active network of corporate hiring partners. We support you with ATS resume preparation, LinkedIn profile optimization, aptitude assessments, weekly technical mock interviews, HR interview simulations, and direct interview opportunities until you land an offer."
+//   },
+//   {
+//     question: "Does GQT guarantee a job?",
+//     answer: "GQT provides complete, rigorous placement assistance and interview opportunities with top tech companies. Final hiring selections are made by partner companies based on performance during evaluations, interviews, and assessments."
+//   },
+//   {
+//     question: "Who is eligible for the ₹5,000 Career Launch model?",
+//     answer: "Recent graduates (BE, B.Tech, BCA, MCA, B.Sc, M.Sc, etc.) as well as final-year college students committed to completing 500+ hours of training and attending placement drives are eligible. Our academic counsellors evaluate your profile and confirm admission."
+//   },
+//   {
+//     question: "What is the complete admission process?",
+//     answer: "1) Register your details online or at our centre. 2) Attend a quick counselling & career assessment. 3) Select your track (Java, Python, MERN, Testing, Analytics, or Data Science). 4) Pay ₹5,000 to confirm your seat. 5) Start your 500-hour training journey immediately."
+//   },
+//   {
+//     question: "What career support continues after the training completes?",
+//     answer: "Placement support does not end when syllabus ends. We continue providing placement notifications, resume refreshes, mentor guidance, salary negotiation coaching, and interview scheduling until you successfully transition into your IT career."
+//   },
+//   {
+//     question: "How do I secure my seat right now?",
+//     answer: "You can click on 'Apply for Career Launch' or use the secure Razorpay payment button on this page to pay the ₹5,000 admission confirmation fee. Our admissions team will instantly contact you with your batch schedule, orientation link, and learning resources."
+//   }
+// ];
 
 export const testimonialsData = [
   {
@@ -414,12 +477,12 @@ export const testimonialsData = [
     text: "The ₹5,000 model gave me the financial freedom to focus on learning without burdening my family. The 500 hours of training and Agentic AI tools made me stand out in my interviews. Placed as a Software Engineer at 6.5 LPA!"
   },
   {
-    name: "Kiran Kumar",
+    name: "Santhosh",
     college: "BMS Institute of Technology",
     course: "Python Full Stack + AI",
     rating: 5,
     avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
-    text: "GQT's practical approach is unmatched. We built 3 live projects, including an AI Resume Analyzer. The mock interviews helped me crack technical rounds with total confidence."
+    text: "🌟 Successfully Completed Soft Skills Program at Global Quest Technologies (GQT) 🌟I am happy to share that I have successfully completed the Soft Skills Program at Global Quest Technologies (GQT).This program helped me enhance my: ✔ Communication Skills✔ Professional Etiquette✔ Teamwork & Collaboration✔ Interview Readiness✔ Personality DevelopmentIt was a great learning experience that boosted my confidence and prepared me for the corporate environment.Thank you to the trainers and the GQT team for their valuable guidance and support.Looking forward to applying these skills in my professional journey! 🚀"
   },
   {
     name: "Sneha Reddy",

@@ -14,10 +14,10 @@ export default function WhyChooseGQT() {
       bg: "bg-blue-50/70"
     },
     {
-      value: "6",
+      value: "6+",
       unit: "Tracks",
       label: "Industry Programs",
-      sub: "Java, Python, MERN, Testing, Analytics & AI",
+      sub: "Java, Python, MERN, Testing, Analytics & AI Data Science & AI",
       icon: BookOpen,
       color: "from-indigo-600 to-blue-700",
       bg: "bg-indigo-50/70"

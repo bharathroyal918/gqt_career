@@ -66,7 +66,7 @@ export default function PaymentModel({ onOpenApply }) {
 
   const pricingCards = [
     {
-      course: "Java Full Stack",
+      course: "Agentic AI with Java Full Stack",
       now: "₹5,000",
       later: "₹20,000",
       total: "₹25,000",
@@ -75,16 +75,16 @@ export default function PaymentModel({ onOpenApply }) {
       role: "Java / Spring Boot Developer"
     },
     {
-      course: "Python Full Stack",
+      course: "Agentic AI with Python Full Stack",
       now: "₹5,000",
       later: "₹20,000",
       total: "₹25,000",
       duration: "500+ Hours • 5 Months",
-      popular: false,
+      popular: true,
       role: "Python / AI Full Stack Engineer"
     },
     {
-      course: "MERN / MEAN Stack",
+      course: "Agentic AI with MERN / MEAN full Stack",
       now: "₹5,000",
       later: "₹20,000",
       total: "₹25,000",
@@ -93,7 +93,7 @@ export default function PaymentModel({ onOpenApply }) {
       role: "Full Stack JavaScript Developer"
     },
     {
-      course: "Software Testing & QA",
+      course: "Agentic AI with Software Testing & QA",
       now: "₹5,000",
       later: "₹20,000",
       total: "₹25,000",
@@ -102,16 +102,16 @@ export default function PaymentModel({ onOpenApply }) {
       role: "Automation QA / SDET"
     },
     {
-      course: "Data Analytics",
+      course: "Agentic AI with Data Analytics",
       now: "₹5,000",
       later: "₹35,000",
       total: "₹40,000",
       duration: "500+ Hours • 5 Months",
-      popular: false,
+      popular: true,
       role: "Data & BI Developer"
     },
     {
-      course: "Data Science & AI",
+      course: "Agentic AI with Data Science & AI",
       now: "₹5,000",
       later: "₹45,000",
       total: "₹50,000",

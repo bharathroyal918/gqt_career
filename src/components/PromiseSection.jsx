@@ -59,7 +59,7 @@ export default function PromiseSection() {
           </h2>
 
           <p className="text-base sm:text-lg text-[#4B5563] leading-relaxed">
-            The GQT Career Launch Programme is designed to make industry-ready IT training accessible for students. Instead of paying the full course fee upfront, eligible students can confirm their seat with just ₹5,000, complete their training, build projects, prepare for interviews, and pay the remaining fee after placement according to their enrolled course.
+            The GQT Career Launch Programme is designed to make industry-ready IT training accessible for students. Instead of paying the full course fee upfront, eligible students can confirm their seat with just <b className="font-bold text-black">₹5,000</b>, complete their training, build projects, prepare for interviews, and pay the remaining fee after placement according to their enrolled course.
           </p>
         </div>
 

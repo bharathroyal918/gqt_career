@@ -192,7 +192,7 @@ export default function Hero({ onOpenApply, onOpenBrochure }) {
               <motion.div 
                 animate={{ y: [0, -8, 0] }}
                 transition={{ duration: 4.5, repeat: Infinity, ease: "easeInOut" }}
-                className="absolute -top-6 -left-4 sm:-left-6 bg-white/95 backdrop-blur-xl p-3.5 sm:p-4 rounded-2xl shadow-xl shadow-slate-900/10 border border-slate-200/80 flex items-center gap-3 z-20"
+                className="absolute -top-11 -left-4 sm:-left-6 bg-white/95 backdrop-blur-xl p-3.5 sm:p-4 rounded-2xl shadow-xl shadow-slate-900/10 border border-slate-200/80 flex items-center gap-3 z-20"
               >
                 <div className="w-10 h-10 rounded-xl bg-emerald-100 text-emerald-700 flex items-center justify-center font-bold text-lg">
                   ₹
@@ -207,7 +207,7 @@ export default function Hero({ onOpenApply, onOpenBrochure }) {
               <motion.div 
                 animate={{ y: [0, 8, 0] }}
                 transition={{ duration: 5, repeat: Infinity, ease: "easeInOut", delay: 0.5 }}
-                className="absolute -top-5 -right-2 sm:-right-4 bg-white/95 backdrop-blur-xl px-4 py-3 rounded-2xl shadow-xl shadow-slate-900/10 border border-slate-200/80 flex items-center gap-2.5 z-20"
+                className="absolute -top-11 -right-2 sm:-right-4 bg-white/95 backdrop-blur-xl px-4 py-3 rounded-2xl shadow-xl shadow-slate-900/10 border border-slate-200/80 flex items-center gap-2.5 z-20"
               >
                 <div className="w-8 h-8 rounded-lg bg-blue-100 text-blue-700 flex items-center justify-center">
                   <Clock className="w-4 h-4" />
@@ -222,7 +222,7 @@ export default function Hero({ onOpenApply, onOpenBrochure }) {
               <motion.div 
                 animate={{ y: [0, 7, 0] }}
                 transition={{ duration: 4.2, repeat: Infinity, ease: "easeInOut", delay: 1 }}
-                className="absolute -bottom-6 -left-3 sm:-left-5 bg-white/95 backdrop-blur-xl px-4 py-3 rounded-2xl shadow-xl shadow-slate-900/10 border border-slate-200/80 flex items-center gap-3 z-20"
+                className="absolute -bottom-8 -left-3 sm:-left-5 bg-white/95 backdrop-blur-xl px-4 py-3 rounded-2xl shadow-xl shadow-slate-900/10 border border-slate-200/80 flex items-center gap-3 z-20"
               >
                 <div className="w-9 h-9 rounded-xl bg-indigo-100 text-indigo-700 flex items-center justify-center">
                   <Briefcase className="w-4 h-4" />
@@ -237,7 +237,7 @@ export default function Hero({ onOpenApply, onOpenBrochure }) {
               <motion.div 
                 animate={{ y: [0, -7, 0] }}
                 transition={{ duration: 4.8, repeat: Infinity, ease: "easeInOut", delay: 1.5 }}
-                className="absolute -bottom-7 -right-2 sm:-right-4 bg-white/95 backdrop-blur-xl px-4 py-3 rounded-2xl shadow-xl shadow-slate-900/10 border border-slate-200/80 flex items-center gap-2.5 z-20"
+                className="absolute -bottom-10 -right-2 sm:-right-4 bg-white/95 backdrop-blur-xl px-4 py-3 rounded-2xl shadow-xl shadow-slate-900/10 border border-slate-200/80 flex items-center gap-2.5 z-20"
               >
                 <div className="w-8 h-8 rounded-lg bg-purple-100 text-purple-700 flex items-center justify-center">
                   <Award className="w-4 h-4" />
